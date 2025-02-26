@@ -1,8 +1,6 @@
 package com.brimstone.rabbitmq.producer;
 
 import com.brimstone.rabbitmq.producer.service.MessageSender;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
